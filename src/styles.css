@@ -1,0 +1,37 @@
+.App {
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+.btns-Container {
+  display: flex;
+  flex-direction: column;
+}
+img {
+  width: 400px;
+  height: 200px;
+  border: 1px solid #000;
+  border-radius: 5px;
+  margin: 0 10px;
+}
+button {
+  height: 30px;
+  width: 100px;
+  margin-bottom: 12px;
+}
+.fill {
+  object-fit: fill;
+}
+.contain {
+  object-fit: contain;
+}
+.cover {
+  object-fit: cover;
+}
+.none {
+  object-fit: none;
+}
+.scale-down {
+  object-fit: scale-down;
+}
