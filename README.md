@@ -1,4 +1,4 @@
-# Object Fit Demo
+# Object Fit
 
 ## About The Project
 ![Screenshot_20221117_044613](https://user-images.githubusercontent.com/38748274/202438291-118652a8-9388-4881-88e8-9bed3e50716e.png)
